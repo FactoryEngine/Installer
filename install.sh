@@ -16,4 +16,4 @@ cd ../core && ./setup.sh && \
 fe core install . && \
 
 # Delete installer
-cd ../../ && rm installer.sh
+cd ../../ && rm install.sh
